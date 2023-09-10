@@ -32,4 +32,7 @@ Here are some ideas to get you started:
 #### ⚓ Kubernetes
 - Skilled in orchestrating and managing containerized applications with Kubernetes, ensuring scalability, high availability, and resource efficiency.
 - Familiarity with DevOps principles and tools, enabling collaboration between development and operations teams for efficient software delivery.
+
+#### ⚡ Fun fact
+- I love to Sketch and A beginner in Digital Art, read and follow fitness.
   
