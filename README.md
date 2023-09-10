@@ -24,10 +24,12 @@ Here are some ideas to get you started:
 
 #### 🌱 Spring Boot
 - Designing, developing, and maintaining microservices using Java and Spring Boot, focusing on modularity, scalability, and maintainability.
+- Strong proficiency in creating RESTful APIs, adhering to best practices for API design and documentation.
 #### 🐳 Containerization
 - Proficient in containerization technologies, including Docker, for packaging and deploying applications with consistency and efficiency.
 #### 📣 Event-Driven Architecture
 - Expertise in building event-driven systems, utilizing Apache Kafka to enable real-time data streaming and processing.
 #### ⚓ Kubernetes
 - Skilled in orchestrating and managing containerized applications with Kubernetes, ensuring scalability, high availability, and resource efficiency.
+- Familiarity with DevOps principles and tools, enabling collaboration between development and operations teams for efficient software delivery.
   
