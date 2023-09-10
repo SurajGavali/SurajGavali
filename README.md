@@ -35,4 +35,10 @@ Here are some ideas to get you started:
 
 #### ⚡ Fun fact
 - I love to Sketch and A beginner in Digital Art, read and follow fitness.
+
+---
+## Connect with me:
+[<img height="32" width="32"  src="https://icons8.com/icon/ZRiAFreol5mE/instagram"/>](https://www.instagram.com/surajgavali_/)
+
+
   
