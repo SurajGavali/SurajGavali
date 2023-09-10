@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there, I am Suraj👋
 
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/SurajGavali)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://in.linkedin.com/in/suraj-gavali-51923a193/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:surajgavali1601@gmail.com)
 <!--
 **SurajGavali/SurajGavali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
