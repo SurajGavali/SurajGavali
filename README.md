@@ -6,6 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-white?style=flat&logo=Instagram)](https://www.instagram.com/surajgavali_/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-black?style=flat&logo=HackerRank)](https://www.hackerrank.com/surajgavali1601)
 [![LeetCode](https://img.shields.io/badge/LeetCode-white?style=flat&logo=LeetCode)](https://leetcode.com/surajgavali1601dapi/)
+[![PersonalWebsite](https://img.shields.io/badge/%F0%9F%8C%90%20WebSite-orange?style=flat&logo=Universe)](https://surajgavali.github.io/blog/)
 
 ## Currently
 - 🌱 I’m currently learning Java Data Structures and algorithms(You can find the repo with same name here...).
