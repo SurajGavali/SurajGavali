@@ -3,6 +3,7 @@
 <!--[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/SurajGavali)-->
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://in.linkedin.com/in/suraj-gavali-51923a193/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:surajgavali1601@gmail.com)
+[![Linkedin](https://img.shields.io/badge/Instagram-white?style=flat&logo=Instagram)](https://www.instagram.com/surajgavali_/)
 <!--
 **SurajGavali/SurajGavali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -37,8 +38,6 @@ Here are some ideas to get you started:
 - I love to Sketch and A beginner in Digital Art, read and follow fitness.
 
 ---
-## Connect with me:
-[<img height="32" width="32"  src="https://icons8.com/icon/32323/instagram"/>](https://www.instagram.com/surajgavali_/)
 
 
   
