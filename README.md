@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 ---
 ## Connect with me:
-[<img height="32" width="32"  src="https://icons8.com/icon/ZRiAFreol5mE/instagram"/>](https://www.instagram.com/surajgavali_/)
+[<img height="32" width="32"  src="https://icons8.com/icon/32323/instagram"/>](https://www.instagram.com/surajgavali_/)
 
 
   
