@@ -17,3 +17,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Currently
+- 🌱 I’m currently learning Java Data Structures and algorithms(You can find the repo with same name here...).
+
+### Key Skills
+
+#### Java Microservices
+- 🌱 Designing, developing, and maintaining microservices using Java and Spring Boot, focusing on modularity, scalability, and maintainability.
+#### Containerization
+- 🐳 Proficient in containerization technologies, including Docker, for packaging and deploying applications with consistency and efficiency.
+#### Event-Driven Architecture
+- 📣 Expertise in building event-driven systems, utilizing Apache Kafka to enable real-time data streaming and processing.
+#### Kubernetes
+- ⚓ Skilled in orchestrating and managing containerized applications with Kubernetes, ensuring scalability, high availability, and resource efficiency.
+  
