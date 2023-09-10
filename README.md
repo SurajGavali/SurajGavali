@@ -29,9 +29,9 @@
 ---
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=SurajGavali&show_icons=true&count_private=true&include_all_commits=true" alt="stats" width="50%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SurajGavali&show_icons=true&count_private=true&include_all_commits=true" alt="stats" width="50%" height="50%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurajGavali&layout=compact&hide=Jupyter%20Notebook" alt="top-langs" width="43%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurajGavali&layout=compact&hide=Jupyter%20Notebook" alt="top-langs" width="43%" height="50%"/>
 </p>
 
 
