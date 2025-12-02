@@ -8,7 +8,12 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-white?style=flat&logo=LeetCode)](https://leetcode.com/surajgavali1601dapi/)
 [![PersonalWebsite](https://img.shields.io/badge/%F0%9F%8C%90%20WebSite-orange?style=flat&logo=Universe)](https://surajgavali.github.io/)
 ![Profile Views](https://views.igorkowalczyk.dev/api/badge/SurajGavali) 
-![Cat](https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif)
+<div style="display: flex; align-items: center;">
+  <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" alt="Cat" width="60" height="60" style="margin-right: 16px;">
+  <span style="font-size: 1.25em;">
+    ### Hi there, I am Suraj👋
+  </span>
+</div>
 
 ## Currently
 - 🌱 I’m currently learning Java Data Structures and algorithms(You can find the repo with same name here...).
