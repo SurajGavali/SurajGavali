@@ -9,9 +9,8 @@
 [![PersonalWebsite](https://img.shields.io/badge/%F0%9F%8C%90%20WebSite-orange?style=flat&logo=Universe)](https://surajgavali.github.io/)
 ![Profile Views](https://views.igorkowalczyk.dev/api/badge/SurajGavali) 
 <div style="display: flex; align-items: center;">
-  <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" alt="Cat" width="60" height="60" style="margin-right: 16px;">
+  <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" alt="Cat" width="150" height="150" style="margin-right: 16px;">
   <span style="font-size: 1.25em;">
-    ### Hi there, I am Suraj👋
   </span>
 </div>
 
