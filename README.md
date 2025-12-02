@@ -7,7 +7,7 @@
 [![HackerRank](https://img.shields.io/badge/HackerRank-black?style=flat&logo=HackerRank)](https://www.hackerrank.com/surajgavali1601)
 [![LeetCode](https://img.shields.io/badge/LeetCode-white?style=flat&logo=LeetCode)](https://leetcode.com/surajgavali1601dapi/)
 [![PersonalWebsite](https://img.shields.io/badge/%F0%9F%8C%90%20WebSite-orange?style=flat&logo=Universe)](https://surajgavali.github.io/)
-![ProfileViews](https://camo.githubusercontent.com/e0ced72c7f36645cf18c669439847245d7671a6ce05a1ad8e2027272270526fa/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d74696e6162797465266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174) ![Cat](https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif)
+![ProfileViews](![Github Views](https://views.igorkowalczyk.dev/api/badge/SurajGavali) ![Cat](https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif)
 
 ## Currently
 - 🌱 I’m currently learning Java Data Structures and algorithms(You can find the repo with same name here...).
