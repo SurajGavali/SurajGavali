@@ -8,14 +8,14 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-white?style=flat&logo=LeetCode)](https://leetcode.com/surajgavali1601dapi/)
 [![PersonalWebsite](https://img.shields.io/badge/%F0%9F%8C%90%20WebSite-orange?style=flat&logo=Universe)](https://surajgavali.github.io/)
 ![Profile Views](https://views.igorkowalczyk.dev/api/badge/SurajGavali) 
-<div style="display: flex; align-items: center;">
-  <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" alt="Cat" width="150" height="150" style="margin-right: 16px;">
-  <span style="font-size: 1.25em;">
-  </span>
-</div>
 
 ## Currently
-- 🌱 I’m currently learning Java Data Structures and algorithms(You can find the repo with same name here...).
+<div>
+  <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" alt="Cat" width="150" height="150" style="float: right; margin-left: 16px; margin-bottom: 8px;">
+  <p>
+    - 🌱 I'm currently learning Java Data Structures and algorithms(You can find the repo with same name here...).
+  </p>
+</div>
 
 ## Key Skills
 
